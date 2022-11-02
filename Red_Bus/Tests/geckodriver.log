@@ -1,0 +1,783 @@
+1666933898097	geckodriver	INFO	Listening on 127.0.0.1:50175
+1666933901183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileiv4jdH"
+1666933902085	Marionette	INFO	Marionette enabled
+1666933902094	Marionette	INFO	Listening on port 50188
+Read port: 50188
+1666933903035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileiv4jdH\\search.json.mozlz4", (void 0)))
+1666933905372	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1666933915502	Marionette	INFO	Stopped listening on port 50188
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666934451644	geckodriver	INFO	Listening on 127.0.0.1:60800
+1666934454698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile9zJxdg"
+1666934455384	Marionette	INFO	Marionette enabled
+1666934455393	Marionette	INFO	Listening on port 60831
+Read port: 60831
+1666934455855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile9zJxdg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666934461578	Marionette	INFO	Stopped listening on port 60831
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666934550740	geckodriver	INFO	Listening on 127.0.0.1:61637
+1666934553779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilezIkjeG"
+1666934554449	Marionette	INFO	Marionette enabled
+1666934554456	Marionette	INFO	Listening on port 61673
+Read port: 61673
+1666934555006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilezIkjeG\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666934560392	Marionette	INFO	Stopped listening on port 61673
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+[Parent 7016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666934906965	geckodriver	INFO	Listening on 127.0.0.1:63924
+1666934910021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileQOMBkd"
+1666934910740	Marionette	INFO	Marionette enabled
+1666934910748	Marionette	INFO	Listening on port 63974
+Read port: 63974
+1666934911234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileQOMBkd\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666934917290	Marionette	INFO	Stopped listening on port 63974
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+[Parent 13912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666935663785	geckodriver	INFO	Listening on 127.0.0.1:51321
+1666935666833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilej66p9d"
+1666935667506	Marionette	INFO	Marionette enabled
+1666935667516	Marionette	INFO	Listening on port 51361
+Read port: 51361
+1666935668159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilej66p9d\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1666935678593	Marionette	INFO	Stopped listening on port 51361
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+[Parent 15320, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666935906304	geckodriver	INFO	Listening on 127.0.0.1:56112
+1666935909350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilehZlbcy"
+1666935910049	Marionette	INFO	Marionette enabled
+1666935910058	Marionette	INFO	Listening on port 56160
+Read port: 56160
+1666935910656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilehZlbcy\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1666935919662	Marionette	INFO	Stopped listening on port 56160
+[Parent 9732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666936605989	geckodriver	INFO	Listening on 127.0.0.1:60865
+1666936609063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileaf6YT2"
+1666936609763	Marionette	INFO	Marionette enabled
+1666936609770	Marionette	INFO	Listening on port 60900
+Read port: 60900
+1666936610276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileaf6YT2\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1666936618827	Marionette	INFO	Stopped listening on port 60900
+[Parent 2132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666936770617	geckodriver	INFO	Listening on 127.0.0.1:61847
+1666936773658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileai6GgU"
+1666936774311	Marionette	INFO	Marionette enabled
+1666936774318	Marionette	INFO	Listening on port 61866
+Read port: 61866
+1666936774835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileai6GgU\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1666936788247	Marionette	INFO	Stopped listening on port 61866
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 7456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666936811913	geckodriver	INFO	Listening on 127.0.0.1:62172
+1666936814971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile4iB96K"
+1666936815622	Marionette	INFO	Marionette enabled
+1666936815632	Marionette	INFO	Listening on port 62189
+Read port: 62189
+1666936816127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile4iB96K\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1666936844309	Marionette	INFO	Stopped listening on port 62189
+[Parent 1584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666937139874	geckodriver	INFO	Listening on 127.0.0.1:63435
+1666937142954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile4h2yZI"
+1666937143639	Marionette	INFO	Marionette enabled
+1666937143646	Marionette	INFO	Listening on port 63458
+Read port: 63458
+1666937144078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile4h2yZI\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1666937152785	Marionette	INFO	Stopped listening on port 63458
+1666937202790	geckodriver	INFO	Listening on 127.0.0.1:63929
+1666937205859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilekv2xtx"
+1666937206481	Marionette	INFO	Marionette enabled
+1666937206488	Marionette	INFO	Listening on port 63951
+Read port: 63951
+1666937207001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilekv2xtx\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1666937215480	Marionette	INFO	Stopped listening on port 63951
+1666937424985	geckodriver	INFO	Listening on 127.0.0.1:64979
+1666937428040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileCxtd1Q"
+1666937428734	Marionette	INFO	Marionette enabled
+1666937428741	Marionette	INFO	Listening on port 65020
+Read port: 65020
+1666937429172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileCxtd1Q\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1666937460208	Marionette	INFO	Stopped listening on port 65020
+[Parent 616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667017733714	geckodriver	INFO	Listening on 127.0.0.1:59333
+1667017736829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileql1vg7"
+1667017737620	Marionette	INFO	Marionette enabled
+1667017737628	Marionette	INFO	Listening on port 59350
+Read port: 59350
+1667017738124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileql1vg7\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667017746371	Marionette	INFO	Stopped listening on port 59350
+1667019528240	geckodriver	INFO	Listening on 127.0.0.1:50582
+1667019531312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileqWzBJO"
+1667019532083	Marionette	INFO	Marionette enabled
+1667019532093	Marionette	INFO	Listening on port 50598
+Read port: 50598
+1667019532646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileqWzBJO\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667019542939	Marionette	INFO	Stopped listening on port 50598
+1667019834266	geckodriver	INFO	Listening on 127.0.0.1:52281
+1667019837314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileP4txUz"
+1667019837922	Marionette	INFO	Marionette enabled
+1667019837932	Marionette	INFO	Listening on port 52329
+Read port: 52329
+1667019838427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileP4txUz\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667019846434	Marionette	INFO	Stopped listening on port 52329
+1667019987047	geckodriver	INFO	Listening on 127.0.0.1:53685
+1667019990094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileKILlxT"
+1667019990703	Marionette	INFO	Marionette enabled
+1667019990710	Marionette	INFO	Listening on port 53719
+Read port: 53719
+1667019991189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileKILlxT\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667019999403	Marionette	INFO	Stopped listening on port 53719
+1667020117581	geckodriver	INFO	Listening on 127.0.0.1:54779
+1667020120620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilewPwYrW"
+1667020121249	Marionette	INFO	Marionette enabled
+1667020121257	Marionette	INFO	Listening on port 54814
+Read port: 54814
+1667020121749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilewPwYrW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667020130049	Marionette	INFO	Stopped listening on port 54814
+[Parent 6536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667020330071	geckodriver	INFO	Listening on 127.0.0.1:56414
+1667020333110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileAfrMNc"
+1667020333738	Marionette	INFO	Marionette enabled
+1667020333746	Marionette	INFO	Listening on port 56443
+Read port: 56443
+1667020334154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileAfrMNc\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667020342367	Marionette	INFO	Stopped listening on port 56443
+[Parent 12604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667020433891	geckodriver	INFO	Listening on 127.0.0.1:57303
+1667020436950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile5ELB60"
+1667020437533	Marionette	INFO	Marionette enabled
+1667020437541	Marionette	INFO	Listening on port 57337
+Read port: 57337
+1667020438040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile5ELB60\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667020465636	Marionette	INFO	Stopped listening on port 57337
+1667020734425	geckodriver	INFO	Listening on 127.0.0.1:59560
+1667020737509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileh3eSNM"
+1667020738105	Marionette	INFO	Marionette enabled
+1667020738111	Marionette	INFO	Listening on port 59587
+Read port: 59587
+1667020738600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileh3eSNM\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667020762559	Marionette	INFO	Stopped listening on port 59587
+[Parent 13368, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667020937271	geckodriver	INFO	Listening on 127.0.0.1:60495
+1667020940297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile0k4nNN"
+1667020940908	Marionette	INFO	Marionette enabled
+1667020940915	Marionette	INFO	Listening on port 60511
+Read port: 60511
+1667020941320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile0k4nNN\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667020964516	Marionette	INFO	Stopped listening on port 60511
+[Parent 6592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667021040340	geckodriver	INFO	Listening on 127.0.0.1:61126
+1667021043419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilebq5YWQ"
+1667021044013	Marionette	INFO	Marionette enabled
+1667021044019	Marionette	INFO	Listening on port 61154
+Read port: 61154
+1667021044513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilebq5YWQ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667021072386	Marionette	INFO	Stopped listening on port 61154
+[Parent 7616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667021115662	geckodriver	INFO	Listening on 127.0.0.1:61670
+1667021118727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilecDwqbi"
+1667021119363	Marionette	INFO	Marionette enabled
+1667021119370	Marionette	INFO	Listening on port 61700
+Read port: 61700
+1667021119851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilecDwqbi\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667021175226	Marionette	INFO	Stopped listening on port 61700
+1667021259576	geckodriver	INFO	Listening on 127.0.0.1:62405
+1667021262622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile4BsiYB"
+1667021263242	Marionette	INFO	Marionette enabled
+1667021263249	Marionette	INFO	Listening on port 62424
+Read port: 62424
+1667021263653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile4BsiYB\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667021318915	Marionette	INFO	Stopped listening on port 62424
+1667024911652	geckodriver	INFO	Listening on 127.0.0.1:50089
+1667024914684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileW2C0Kx"
+1667024915344	Marionette	INFO	Marionette enabled
+1667024915351	Marionette	INFO	Listening on port 50118
+Read port: 50118
+1667024915892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileW2C0Kx\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667025008407	geckodriver	INFO	Listening on 127.0.0.1:50594
+1667025011465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileLrz4gH"
+1667025012089	Marionette	INFO	Marionette enabled
+1667025012098	Marionette	INFO	Listening on port 50615
+Read port: 50615
+1667025012577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileLrz4gH\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.redbus.in/javascripts/account.6627834a0f6ae0c06c76.bundle.js, line 1: ReferenceError: FB is not defined
+1667025026534	Marionette	INFO	Stopped listening on port 50615
+[Parent 17976, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667025068864	geckodriver	INFO	Listening on 127.0.0.1:50906
+1667025071921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile19mQ8A"
+1667025072504	Marionette	INFO	Marionette enabled
+1667025072513	Marionette	INFO	Listening on port 50920
+Read port: 50920
+1667025072913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile19mQ8A\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667025085496	Marionette	INFO	Stopped listening on port 50920
+1667025099870	geckodriver	INFO	Listening on 127.0.0.1:51083
+1667025102932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile6lZTjl"
+1667025103514	Marionette	INFO	Marionette enabled
+1667025103521	Marionette	INFO	Listening on port 51101
+Read port: 51101
+1667025104047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile6lZTjl\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://www.redbus.in/javascripts/account.6627834a0f6ae0c06c76.bundle.js, line 1: ReferenceError: FB is not defined
+1667025120079	Marionette	INFO	Stopped listening on port 51101
+[Parent 17856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667025998073	geckodriver	INFO	Listening on 127.0.0.1:53967
+1667026001183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileMNsHug"
+1667026001769	Marionette	INFO	Marionette enabled
+1667026001775	Marionette	INFO	Listening on port 53989
+Read port: 53989
+1667026002314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileMNsHug\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667026018013	Marionette	INFO	Stopped listening on port 53989
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667026091958	geckodriver	INFO	Listening on 127.0.0.1:54427
+1667026095030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileQw4jhZ"
+1667026095630	Marionette	INFO	Marionette enabled
+1667026095637	Marionette	INFO	Listening on port 54450
+Read port: 54450
+1667026096044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileQw4jhZ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667026155136	Marionette	INFO	Stopped listening on port 54450
+1667026735813	geckodriver	INFO	Listening on 127.0.0.1:56541
+1667026738870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileTFrBKm"
+1667026739487	Marionette	INFO	Marionette enabled
+1667026739494	Marionette	INFO	Listening on port 56576
+Read port: 56576
+1667026740030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileTFrBKm\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667026801695	Marionette	INFO	Stopped listening on port 56576
+1667028636171	geckodriver	INFO	Listening on 127.0.0.1:52703
+1667028639225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofiler2pwRj"
+1667028639817	Marionette	INFO	Marionette enabled
+1667028639824	Marionette	INFO	Listening on port 52716
+Read port: 52716
+1667028640371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667028809183	geckodriver	INFO	Listening on 127.0.0.1:52888
+1667028812202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilekOgzQ4"
+1667028812778	Marionette	INFO	Marionette enabled
+1667028812786	Marionette	INFO	Listening on port 52902
+Read port: 52902
+1667028813200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilekOgzQ4\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667029030726	Marionette	INFO	Stopped listening on port 52902
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 9164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667194527665	geckodriver	INFO	Listening on 127.0.0.1:53798
+1667194530696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileKwZiKi"
+1667194531623	Marionette	INFO	Marionette enabled
+1667194531633	Marionette	INFO	Listening on port 53847
+Read port: 53847
+1667194532500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileKwZiKi\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667194575295	Marionette	INFO	Stopped listening on port 53847
+[Parent 18344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667201240889	geckodriver	INFO	Listening on 127.0.0.1:64553
+1667201243941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileBL1asl"
+1667201244808	Marionette	INFO	Marionette enabled
+1667201244817	Marionette	INFO	Listening on port 64566
+Read port: 64566
+1667201245512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileBL1asl\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667201253843	Marionette	INFO	Stopped listening on port 64566
+[Parent 2100, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667201323742	geckodriver	INFO	Listening on 127.0.0.1:64877
+1667201326753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofiletKi89H"
+1667201327467	Marionette	INFO	Marionette enabled
+1667201327475	Marionette	INFO	Listening on port 64893
+Read port: 64893
+1667201328025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofiletKi89H\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667201339033	Marionette	INFO	Stopped listening on port 64893
+[Parent 8936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667201527500	geckodriver	INFO	Listening on 127.0.0.1:65376
+1667201530546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileYXSr9B"
+1667201531258	Marionette	INFO	Marionette enabled
+1667201531266	Marionette	INFO	Listening on port 65391
+Read port: 65391
+1667201531833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667201724825	geckodriver	INFO	Listening on 127.0.0.1:49236
+1667201727835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileNyWryt"
+1667201728549	Marionette	INFO	Marionette enabled
+1667201728558	Marionette	INFO	Listening on port 49249
+Read port: 49249
+1667201729098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileNyWryt\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667201737857	Marionette	INFO	Stopped listening on port 49249
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 18148, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667201739304	geckodriver	INFO	Listening on 127.0.0.1:49367
+1667201742337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilecX1O5V"
+1667201743007	Marionette	INFO	Marionette enabled
+1667201743014	Marionette	INFO	Listening on port 49380
+Read port: 49380
+1667201743641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilecX1O5V\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667201754322	Marionette	INFO	Stopped listening on port 49380
+1667206908324	geckodriver	INFO	Listening on 127.0.0.1:60354
+1667206977850	geckodriver	INFO	Listening on 127.0.0.1:60542
+1667206980900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileLHtLgl"
+1667206981775	Marionette	INFO	Marionette enabled
+1667206981785	Marionette	INFO	Listening on port 60555
+Read port: 60555
+1667206982512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileLHtLgl\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667206991027	Marionette	INFO	Stopped listening on port 60555
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667206992561	geckodriver	INFO	Listening on 127.0.0.1:60693
+1667206995593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileuvbFqT"
+1667206996305	Marionette	INFO	Marionette enabled
+1667206996315	Marionette	INFO	Listening on port 60707
+Read port: 60707
+1667206997064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileuvbFqT\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667207005733	Marionette	INFO	Stopped listening on port 60707
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667207119523	geckodriver	INFO	Listening on 127.0.0.1:61224
+1667207122531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileSpNSkK"
+1667207123279	Marionette	INFO	Marionette enabled
+1667207123289	Marionette	INFO	Listening on port 61238
+Read port: 61238
+1667207124111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667207435418	geckodriver	INFO	Listening on 127.0.0.1:61403
+1667207438433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileJAZvZ5"
+1667207439233	Marionette	INFO	Marionette enabled
+1667207439242	Marionette	INFO	Listening on port 61416
+Read port: 61416
+1667207439965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileJAZvZ5\\search.json.mozlz4", (void 0)))
+1667207442722	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1667207468180	Marionette	INFO	Stopped listening on port 61416
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+bled
+1667207446922	Marionette	INFO	Listening on port 61434
+Read port: 61434
+1667207447221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileABZaGv\\search.json.mozlz4", (void 0)))
+1667207451697	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1667207466517	Marionette	INFO	Stopped listening on port 61434
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667208061832	geckodriver	INFO	Listening on 127.0.0.1:62063
+1667208064867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileUumMal"
+1667208065706	Marionette	INFO	Marionette enabled
+1667208065715	Marionette	INFO	Listening on port 62078
+Read port: 62078
+1667208066327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667208133179	geckodriver	INFO	Listening on 127.0.0.1:62196
+1667208136212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileaLTf5t"
+1667208136914	Marionette	INFO	Marionette enabled
+1667208136924	Marionette	INFO	Listening on port 62211
+Read port: 62211
+1667208137504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileaLTf5t\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/QY8O2R-x3vh.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667208193537	Marionette	INFO	Stopped listening on port 62211
+[Parent 13136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1667208471788	geckodriver	INFO	Listening on 127.0.0.1:62957
+1667208474816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileQmheRg"
+1667208475605	Marionette	INFO	Marionette enabled
+1667208475613	Marionette	INFO	Listening on port 62972
+Read port: 62972
+1667208476415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileQmheRg\\search.json.mozlz4", (void 0)))
+1667208480096	Marionette	INFO	Stopped listening on port 62972
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667208561481	geckodriver	INFO	Listening on 127.0.0.1:63185
+1667208564497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile1mAosf"
+1667208565219	Marionette	INFO	Marionette enabled
+1667208565226	Marionette	INFO	Listening on port 63199
+Read port: 63199
+1667208565715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile1mAosf\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/QY8O2R-x3vh.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/QY8O2R-x3vh.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667208699088	geckodriver	INFO	Listening on 127.0.0.1:63725
+1667208702098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileVtS0K5"
+1667208702814	Marionette	INFO	Marionette enabled
+1667208702820	Marionette	INFO	Listening on port 63740
+Read port: 63740
+1667208703118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileVtS0K5\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/ys/l/en_GB/QY8O2R-x3vh.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667208764893	Marionette	INFO	Stopped listening on port 63740
+1667208860035	geckodriver	INFO	Listening on 127.0.0.1:64419
+1667208863068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileQt3FMC"
+1667208863833	Marionette	INFO	Marionette enabled
+1667208863841	Marionette	INFO	Listening on port 64432
+Read port: 64432
+1667208864413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileQt3FMC\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667208876871	Marionette	INFO	Stopped listening on port 64432
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667208878351	geckodriver	INFO	Listening on 127.0.0.1:64609
+1667208881374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileTOWqTJ"
+1667208882049	Marionette	INFO	Marionette enabled
+1667208882056	Marionette	INFO	Listening on port 64622
+Read port: 64622
+1667208882604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileTOWqTJ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667208891023	Marionette	INFO	Stopped listening on port 64622
+1667209099449	geckodriver	INFO	Listening on 127.0.0.1:65187
+1667209102479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile0WDaZ1"
+1667209103231	Marionette	INFO	Marionette enabled
+1667209103238	Marionette	INFO	Listening on port 65202
+Read port: 65202
+1667209103805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile0WDaZ1\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667209118371	Marionette	INFO	Stopped listening on port 65202
+1667209119760	geckodriver	INFO	Listening on 127.0.0.1:65317
+1667209122797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile50Kt3T"
+1667209123470	Marionette	INFO	Marionette enabled
+1667209123479	Marionette	INFO	Listening on port 65330
+Read port: 65330
+1667209124044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile50Kt3T\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667209136602	Marionette	INFO	Stopped listening on port 65330
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1667210228492	geckodriver	INFO	Listening on 127.0.0.1:55009
+1667210256353	geckodriver	INFO	Listening on 127.0.0.1:55176
+1667210259375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile4mBjFo"
+1667210260195	Marionette	INFO	Marionette enabled
+1667210260205	Marionette	INFO	Listening on port 55190
+Read port: 55190
+1667210260748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofile4mBjFo\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+1667210275395	Marionette	INFO	Stopped listening on port 55190
+1667210952211	geckodriver	INFO	Listening on 127.0.0.1:55845
+1667210955230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilegPnTyh"
+1667210955968	Marionette	INFO	Marionette enabled
+1667210955976	Marionette	INFO	Listening on port 55862
+Read port: 55862
+1667210956619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofilegPnTyh\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667210975555	Marionette	INFO	Stopped listening on port 55862
+1667210977003	geckodriver	INFO	Listening on 127.0.0.1:56039
+1667210980003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileIauV9i"
+1667210980666	Marionette	INFO	Marionette enabled
+1667210980674	Marionette	INFO	Listening on port 56052
+Read port: 56052
+1667210981216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\shris\\AppData\\Local\\Temp\\rust_mozprofileIauV9i\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 38: Error: reCAPTCHA placeholder element must be an element or id
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+1667210992971	Marionette	INFO	Stopped listening on port 56052
+[Parent 2060, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
